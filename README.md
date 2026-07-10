@@ -42,4 +42,4 @@ In addition, other projects are adapted from various YouTube channels:
 
 If you find these projects helpful or interesting, please consider starring the repository. It's a simple gesture that helps to boost the visibility of the project and show appreciation for the effort put into creating it. Additionally, if you'd like to support my work further, you can(https://github.com/sponsors/vanshchaudhary324). Your support is greatly appreciated. Thank you!
 
-**I want to give credit the to  Arman Idrisi**
+**I want to give credit the to  vansh**
